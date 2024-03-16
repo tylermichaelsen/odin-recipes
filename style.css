@@ -2,6 +2,11 @@ h1 {
     font-size: 72px;
 }
 
+h3 {
+    background-color: rgb(38, 74, 128);
+    color: white;
+}
+
 #steps {
-    color: rgb(59, 30, 92);
+    color: rgb(15, 14, 82);
 }
