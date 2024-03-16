@@ -1,5 +1,10 @@
+* {
+    font-family: "Brush Script MT", Georgia, fantasy;
+}
+
 h1 {
     font-size: 72px;
+    font-weight: 200;
 }
 
 h3 {
