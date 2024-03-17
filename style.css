@@ -12,6 +12,11 @@ h3 {
     color: white;
 }
 
+#homepage-header {
+    text-align: center;
+}
+
 .steps {
     color: rgb(15, 14, 82);
 }
+
