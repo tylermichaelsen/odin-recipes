@@ -21,6 +21,13 @@ h3 {
     background-color: aliceblue;
 }
 
+.homepage-link {
+    background-color: aliceblue;
+    padding: 50px;
+    display:inline-block;
+    margin:50px;
+}
+
 .steps {
     color: rgb(15, 14, 82);
 }
