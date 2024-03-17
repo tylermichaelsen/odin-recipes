@@ -24,9 +24,10 @@ h3 {
 
 .homepage-link {
     background-color: aliceblue;
-    padding: 50px;
+    padding: 20px;
     display:inline-block;
-    margin:50px;
+    margin:20px;
+    font-size: 32px;
 }
 
 #homepage-list {
