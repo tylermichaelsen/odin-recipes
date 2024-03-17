@@ -28,6 +28,11 @@ h3 {
     margin:50px;
 }
 
+#homepage-list {
+    margin: auto;
+    width:max-content;
+}
+
 .steps {
     color: rgb(15, 14, 82);
 }
